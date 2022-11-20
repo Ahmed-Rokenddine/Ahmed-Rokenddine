@@ -22,9 +22,10 @@
 
 <p align="left"> 
     <a> </a>
-    <code><img height="50" src="https://cdn.discordapp.com/attachments/783698937965445190/1026211061273206956/PngItem_312155.png"></code>
-    <code><img height="50" src="https://cdn.discordapp.com/attachments/783698937965445190/1043995254052888646/pngwing.com.png"></code>
-    <code><img height="50" src="https://cdn.discordapp.com/attachments/783698937965445190/1043995254396825671/logo-g47d094664_1920.png"></code>
+    <code><img height="60" src="https://cdn.discordapp.com/attachments/783698937965445190/1026211061273206956/PngItem_312155.png"></code>
+ <a> </a>
+    <code><img height="70" src="https://cdn.discordapp.com/attachments/783698937965445190/1043995254052888646/pngwing.com.png"></code>
+    <code><img height="70" src="https://cdn.discordapp.com/attachments/783698937965445190/1043995254396825671/logo-g47d094664_1920.png"></code>
     
 
 
